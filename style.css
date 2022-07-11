@@ -47,6 +47,7 @@ p{
         border-top: 0px;
         border-right: none;
         float: right;
+        background-color: blanchedalmond;
         font-size: large;
         font-family:monospace;
         font-style: normal;
@@ -56,6 +57,7 @@ p{
         border: 1.5px solid #ff008c;
         border-top: 0px;
         border-right: none;
+        background-color: blanchedalmond;
         float: right;
         font-size: large;
         font-family:monospace;
@@ -63,6 +65,7 @@ p{
      }
      .lay{
         color: rgb(84, 4, 83);
+        background-color: blanchedalmond;
         border: 1.5px solid #ff008c;
         border-top: 0px;
         border-right: none;
